@@ -1,0 +1,14 @@
+/**
+ * Created with JetBrains PhpStorm.
+ * User: misa.guo
+ * Date: 12-12-17
+ * Time: 上午11:21
+ */
+
+@charset "utf-8";
+body{ background: #CCC;}
+#main{ width:600px; height:600px; margin: 30px auto; background: #FFF; border-left: 1px solid #DEDEDE; border-top: 1px solid #DEDEDE;}
+.block{width:14px; height:14px; border-right: 1px solid #EDEDED; border-bottom: 1px solid #EDEDED; float: left;}
+.red{ background: #F00;}
+.grey{ background: #CCC;}
+.blue{ background: #00F};
